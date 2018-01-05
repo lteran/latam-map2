@@ -1,0 +1,8 @@
+Fri Dec 29 19:38:09 EST 2017
+TerriaJS Server 2.7.0
+Using config file "/home/q/github/TerriaMap/devserverconfig.json".
+Serving directory "/home/q/github/TerriaMap/wwwroot" on port 3001 to the world.
+(TerriaJS-Server running with pid 4129)
+Launching 8 worker processes.
+Convert warning: ogr2ogr (gdal) is not installed or inaccessible, so the format conversion service will fail.
+(TerriaJS-Server exiting.)
